@@ -1,4 +1,4 @@
-<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210222183454/How-to-Become-a-Full-Stack-Web-Developer-in-2021.png" alt="Girl in a jacket" width="1000" height="250">
+<!-- <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210222183454/How-to-Become-a-Full-Stack-Web-Developer-in-2021.png" alt="Girl in a jacket" width="1000" height="250">
 <h1 align="center">Hi 👋, I'm Muhammad Shahajam</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 <img align="right"alt="Coding"width="300"src="https://www.techrepublic.com/wp-content/uploads/2022/08/clone-github-repository.jpeg">
@@ -25,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shailendravishwakarma&show_icons=true&locale=en" alt="muhammad shahajam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shailendravishwakarma&" alt="muhammad Shahajam" /></p>
+ -->
